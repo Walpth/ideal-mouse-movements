@@ -1,0 +1,6 @@
+evdev
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
